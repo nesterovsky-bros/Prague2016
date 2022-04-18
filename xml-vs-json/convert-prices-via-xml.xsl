@@ -17,7 +17,7 @@
   </xsl:template>
   
   <xsl:template match="item[tokenize(@tags) = 'ice']/@price">
-  	<xsl:attribute name="price" select="xs:decimal(@price) * 1.1"/>
+  	<xsl:attribute name="price" select="xs:decimal(.) * 1.1"/>
   </xsl:template>
 
 </xsl:stylesheet>
