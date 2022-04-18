@@ -1,0 +1,18 @@
+[
+  {
+    "faculty": "humanities",
+    "courses": [ "English", "History", "Latin", "Law" ]
+  },
+  {
+    "faculty": "science",
+    "courses": [ "Mathematics", "Physics", "Chemistry", "Biology" ]
+  },
+  {
+    "faculty": "Art",
+    "courses": [ "Drawing", "Sculpture", "Literature and Poetry" ]
+  },
+  {
+    "faculty": "Business",
+    "courses": [ "Accounting", "Management" ]
+  }
+]
